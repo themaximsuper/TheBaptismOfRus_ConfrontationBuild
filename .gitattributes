@@ -1,0 +1,7 @@
+MonoBleedingEdge filter=lfs diff=lfs merge=lfs -text
+TheBaptismOfRusConfrontation_Data filter=lfs diff=lfs merge=lfs -text
+TheBaptismOfRusConfrontation.exe filter=lfs diff=lfs merge=lfs -text
+UnityCrashHandler64.exe filter=lfs diff=lfs merge=lfs -text
+UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+TheBaptismOfRusConfrontation_Data/sharedassets3.assets.resS filter=lfs diff=lfs merge=lfs -text
+TheBaptismOfRusConfrontation_Data/sharedassets3.assets filter=lfs diff=lfs merge=lfs -text
